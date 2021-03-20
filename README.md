@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeinTM
 - 👀 I’m interested in programming (C#, JavaScript, PHP, Python, Swift), IT infrastructures (networks, servers, firewalls, wifi), gaming, skiing, business
-- 🌱 I’m currently learning @ Thomas More campus Programming
+- 🌱 I’m currently learning Programming @ Thomas More 
 - 💞️ I’m looking to collaborate on own projects and open source projects
 - 📫 How to reach me dein (@) devquest.be
 
